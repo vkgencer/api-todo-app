@@ -1,0 +1,21 @@
+{
+  "name": "api-todo-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "serve": "nodemon app.js"
+  },
+  "author": "Veysel Karani Gencer <vkgencer@gmail.com>",
+  "description": "Node.js API for todo app",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
