@@ -1,12 +1,12 @@
 {
-  "name": "api-todo-app",
+  "name": "todo-app-api",
+  "author": "Veysel Karani Gencer <vkgencer@gmail.com>",
+  "description": "Node.js API for todo app",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "serve": "nodemon app.js"
   },
-  "author": "Veysel Karani Gencer <vkgencer@gmail.com>",
-  "description": "Node.js API for todo app",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",

@@ -1,2 +1,2 @@
 # todo-app-api
-Node.js
+Node.js API for Todo Apps
