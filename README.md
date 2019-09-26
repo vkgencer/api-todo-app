@@ -1,2 +1,2 @@
-# api-todo-app
+# todo-app-api
 Node.js
